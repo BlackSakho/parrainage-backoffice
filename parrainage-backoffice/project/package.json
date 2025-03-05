@@ -25,6 +25,7 @@
     "@angular/build": "^19.0.7",
     "@angular/cli": "^19.0.7",
     "@angular/compiler-cli": "^19.0.6",
+    "@ngx-env/builder": "^19.0.4",
     "autoprefixer": "^10.4.17",
     "postcss": "^8.4.35",
     "tailwindcss": "^3.4.1",
